@@ -1,0 +1,6 @@
+Grade: check / check minus
+
+1 - Your user interface is fairly minimal.  I can do one operation and then the program closes down. It appears to work well though
+for addition.  How about letting me do other operations.  I see you implemented them.
+2 - Your code looks good and complete for the fraction class and the fraction calculator class.
+3 - Add some comments to let me know what things mean (or choose better variable names ... what does basefraac mean?)
